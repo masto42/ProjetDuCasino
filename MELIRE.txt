@@ -1,0 +1,1 @@
+nous allons creer un programme python qui simule le fonctionnement du jeu de la roulette dans un casino avec une mise au départ de 1000 dollars 
