@@ -1,0 +1,1 @@
+Nous allons écrire un programme python qui simule le jeu de la roulette au casino
